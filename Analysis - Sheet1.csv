@@ -1,0 +1,24 @@
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+Attributes                       ,,Sub-attribute,                Test Cases         ,,             Deepak,                Manoj,                   Dipu,                Paras,                 Amar,                Abdul,     Desh deepak,               Nishith,            Pradeep,           Prashant,               prince,                 Rohit,                Prachi,              Madhu,              Reema,               Aditya
+                                       ,,,                                      ,,,,,,,,,,,,,,,,,
+Task                              ,,Spreadsheet,Sub-attributes              ,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+                              ,,,Font                       ,,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+                                ,,,Alignment                    ,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+                                  ,,,Clarity Overlooks,,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+                                     ,,,Spelling Mistakes,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+                             ,,,Label columns and Rows,,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1
+                              ,,,Avoid repetitive   ,,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1
+                            ,,,                                ,,,,,,,,,,,,,,,,,
+                                  ,,Github,Create Github Account,,1,1,1,1,1,1,0,0,1,1,1,1,0,1,0,1
+                               ,,,                                          ,,,,,,,,,,,,,,,,,
+                                 ,,Markdown,Create spreadsheets in Mardown,,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1
+                                  ,,,                                  ,,,,,,,,,,,,,,,,,
+ Time Duration     ,,Task Done,Tassk Completed on Commited,,0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,1
+                                      ,,,Task Completed within 8 hours,,1,0,1,1,1,1,0,1,1,1,0,1,1,0,1,1
+                                  ,,,Task Completed within 16 hours,,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1
+                                     ,,,Task Completed within 24 hours,,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1
+                                      ,,,                                  ,,,,,,,,,,,,,,,,,
+Creativity thinking,,Out of topic -,To explore ideas that are creative,,0,1,1,0,1,0,1,1,0,1,0,1,0,0,0,1
+                                        ,,thinking,                                ,,,,,,,,,,,,,,,,,
+                                     ,,divert thinking,Thinking on another topic,,1,0,1,1,1,1,1,0,1,1,0,1,0,1,0,1
